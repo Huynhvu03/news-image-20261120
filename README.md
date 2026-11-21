@@ -1,8 +1,8 @@
 # Friday 20 November 2026 — The World in One Day
 
-[![Bounty](https://img.shields.io/badge/make.fun-news--image--20261120-red)](https://make.fun/bounty/news-image-20261120)
-[![Stories](https://img.shields.io/badge/stories-44-blue)](https://make.fun/bounty/news-image-20261120)
-[![Deterministic](https://img.shields.io/badge/render-deterministic-green)](https://make.fun/bounty/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Huynhvu03/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Huynhvu03/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 A one-page newspaper front page for **Friday 20 November 2026**: 44 stories
 (3 heroes + 11 cards + 30 briefs) across 7 regions, 14 original
